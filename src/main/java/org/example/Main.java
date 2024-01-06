@@ -6,7 +6,7 @@ public class Main {
     public static void main(String[] args) {
         TaskManager taskManager = new TaskManager();
 
-
+        //changes made to check git
         taskManager.addTask("Study");
         taskManager.addTask("Code");
         taskManager.displayTask();
